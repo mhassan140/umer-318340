@@ -12,8 +12,8 @@
 
 
 
-let numberofchildren = prompt ('how many children do you have in future')
+// let numberofchildren = prompt ('how many children do you have in future')
 
-let partnername = prompt ('what is your partner name')
+// let partnername = prompt ('what is your partner name')
 
-let jobtitle = prompt ('what will you do in your future job')
+// let jobtitle = prompt ('what will you do in your future job')
